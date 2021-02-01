@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d0bb5"],{"68da":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"app-container"},[t("h1",[e._v("这是一个Vue组件 SSR 测试模板文件")])])}],r={},s=r,u=t("2877"),i=Object(u["a"])(s,a,c,!1,null,"5166ba04",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0d0bb5.a81b52df.js.map

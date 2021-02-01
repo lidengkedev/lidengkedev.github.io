@@ -1,0 +1,15 @@
+{
+    "background_color": "#52ccba",
+    "description": "这是一个个人测试模拟网站",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "icons/fox-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "WEBSITE",
+    "short_name": "WEB",
+    "start_url": "/index.html"
+}
